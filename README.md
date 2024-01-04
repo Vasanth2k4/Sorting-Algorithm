@@ -45,7 +45,7 @@ selection_sort(list(list_of_nums))
 
 ```
 ii)	#Insertion Sort
-```
+```python
 def insertion_sort(nums):
     # Write your code here to sort the elements in the list using Insertion sort algorithm
     n=len(nums)
